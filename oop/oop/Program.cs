@@ -18,7 +18,7 @@ namespace oop
 
             Employee e2;
             e2 = new Employee();
-            e2.name = "joe";
+            e2.name = "Joe";
             e2.age = 40;
 
 
