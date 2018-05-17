@@ -1,0 +1,7 @@
+c:\users\mbueno\source\repos\oop\oop\bin\Debug\oop.exe.config
+c:\users\mbueno\source\repos\oop\oop\bin\Debug\oop.exe
+c:\users\mbueno\source\repos\oop\oop\bin\Debug\oop.pdb
+c:\users\mbueno\source\repos\oop\oop\obj\Debug\oop.csprojResolveAssemblyReference.cache
+c:\users\mbueno\source\repos\oop\oop\obj\Debug\oop.csproj.CoreCompileInputs.cache
+c:\users\mbueno\source\repos\oop\oop\obj\Debug\oop.exe
+c:\users\mbueno\source\repos\oop\oop\obj\Debug\oop.pdb
