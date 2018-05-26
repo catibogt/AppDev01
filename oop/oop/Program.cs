@@ -30,8 +30,6 @@ namespace oop
             Console.WriteLine(e2.name);
             Console.WriteLine(e2.age);
 
-            Console.WriteLine("catibogt test");
-
             Console.ReadLine();
 
 
