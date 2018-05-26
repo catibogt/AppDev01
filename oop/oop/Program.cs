@@ -13,7 +13,7 @@ namespace oop
             int x = 66;
             Employee e1;
             e1 = new Employee();
-            e1.name = "Sue"; // upma
+            e1.name = "Sue";
             e1.age = 25;
 
             Employee e2;
@@ -29,6 +29,8 @@ namespace oop
 
             Console.WriteLine(e2.name);
             Console.WriteLine(e2.age);
+
+            Console.WriteLine("catibogt test");
 
             Console.ReadLine();
 
